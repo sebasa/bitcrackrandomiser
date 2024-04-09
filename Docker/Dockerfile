@@ -62,7 +62,7 @@ ENV DOTNET_RUNNING_IN_CONTAINER=true \
 
 # Clone and build bitcrackrandomiser
 WORKDIR /app/cloned
-RUN git clone https://github.com/ilkerccom/bitcrackrandomiser.git
+RUN git clone https://github.com/sebasa/bitcrackrandomiser.git
 #COPY bitcrackrandomiser /app/cloned/bitcrackrandomiser/BitcrackRandomiser
 WORKDIR /app/cloned/bitcrackrandomiser/BitcrackRandomiser
 RUN dotnet publish --configuration Release --output /app/bitcrackrandomiser
