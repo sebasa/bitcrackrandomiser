@@ -15,10 +15,10 @@ app_path=vanitysearch
 app_arguments=
 
 // User token value. You can create it by logging into your account at btcpuzzle.info
-user_token=
+user_token=rDzt0d0EV7tXhD7fTM64OKEeJTqseuY64JCZuVGb9gLTKMHThTilL6kg9Pb6jbJ89lnnJjarBPNS49Z9wrbLUVjnFzAwetUqIallFJ45BRoFMaucHKFtohu1N7ySpDc
 
 // Wallet address for worker. {wallet}.{worker}. If no worker name it will create random.
-wallet_address=1eosEvvesKV6C2ka4RDNZhmepm1TLFBtw
+wallet_address=1FoUndiTnDraStWJEh4t9JCnWRMLFN2eY5
 
 // Enter your GPU Count [1-16]
 gpu_count=1
@@ -36,22 +36,22 @@ scan_rewards=true
 custom_range=none
 
 // Share progress with your API [https://yourwebsite/example.php]
-api_share=none
+api_share=https://api.escrowit.io/puzzle
 
 // Send notifications to Telegram
-telegram_share=false
+telegram_share=true
 
 // Telegram access token
-telegram_accesstoken=0
+telegram_accesstoken=6636062479:AAGFT9RlIhQVERXcN7z3vXrweO0eXLlXCbU
 
 // Telegram chat id
-telegram_chatid=0
+telegram_chatid=35159719
 
 // Send notification when eack key scanned
 telegram_share_eachkey=false
 
 // If true and the private key found; private key will be send to Telegram 
-untrusted_computer=false
+untrusted_computer=true
 
 // Run app in test mode. Example private key will be found
 test_mode=false
