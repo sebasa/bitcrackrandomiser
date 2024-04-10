@@ -12,7 +12,7 @@ app_path=/app/BitCrack/bin/./cuBitCrack
 
 // App arguments
 // Example for bitcrack: -b 896 -t 256 -p 256
-app_arguments="-b 896 -t 256 -p 256"
+app_arguments=-b 896 -t 256 -p 256
 
 // User token value. You can create it by logging into your account at btcpuzzle.info
 user_token=rDzt0d0EV7tXhD7fTM64OKEeJTqseuY64JCZuVGb9gLTKMHThTilL6kg9Pb6jbJ89lnnJjarBPNS49Z9wrbLUVjnFzAwetUqIallFJ45BRoFMaucHKFtohu1N7ySpDc
@@ -63,4 +63,4 @@ force_continue=false
 private_pool=none
 
 // Enable or disable error/information logging
-enable_logging=false
+enable_logging=true
