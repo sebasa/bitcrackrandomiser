@@ -15,10 +15,10 @@ app_path=/app/BitCrack/bin/./cuBitCrack
 app_arguments=-b 896 -t 256 -p 256
 
 // User token value. You can create it by logging into your account at btcpuzzle.info
-user_token=rDzt0d0EV7tXhD7fTM64OKEeJTqseuY64JCZuVGb9gLTKMHThTilL6kg9Pb6jbJ89lnnJjarBPNS49Z9wrbLUVjnFzAwetUqIallFJ45BRoFMaucHKFtohu1N7ySpDc
+user_token=ixfBfOnTPCRDzR8URju55oXfWRSA0PU8tLVD7P8V5tgICVH9IBJCgiwts9thIfTIOgiAiH7Kcx9bkqBYjPCiM2Zz1Fmjfi7466Ywq6O4tF4yzpI5rJm2f73AViPwPg3N
 
 // Wallet address for worker. {wallet}.{worker}. If no worker name it will create random.
-wallet_address=1FoUndiTnDraStWJEh4t9JCnWRMLFN2eY5
+wallet_address=12mLRnncVCkPwogcA4p4fEbLBw8EbrmQBq
 
 // Enter your GPU Count [1-16]
 gpu_count=4
@@ -33,10 +33,10 @@ scan_type=default
 scan_rewards=true
 
 // Custom range to scan Example; [2D,3BA,3F12,2881A or none]
-custom_range=none
+custom_range=317
 
 // Share progress with your API [https://yourwebsite/example.php]
-api_share=https://api.escrowit.io/puzzle
+api_share=https://api.casainteligente.cloud/puzzle
 
 // Send notifications to Telegram
 telegram_share=true
