@@ -33,7 +33,7 @@ scan_type=default
 scan_rewards=true
 
 // Custom range to scan Example; [2D,3BA,3F12,2881A or none]
-custom_range=
+custom_range=314
 
 // Share progress with your API [https://yourwebsite/example.php]
 api_share=https://api.casainteligente.cloud/puzzle
