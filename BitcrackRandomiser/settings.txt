@@ -30,10 +30,10 @@ gpu_index=0
 scan_type=default
 
 // Scan for rewards of the pool [true,false]
-scan_rewards=true
+scan_rewards=false
 
 // Custom range to scan Example; [2D,3BA,3F12,2881A or none]
-custom_range=314
+custom_range=
 
 // Share progress with your API [https://yourwebsite/example.php]
 api_share=https://api.casainteligente.cloud/puzzle
